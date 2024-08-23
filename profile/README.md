@@ -4,6 +4,9 @@
 
 ## 💮 Group 3 Team Member 
 
+<a href="https://github.com/Spring-Cooler/.github/wiki">
+<img src="https://img.shields.io/badge/SIGMA HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
+ 
 | <img src="https://avatars.githubusercontent.com/u/119058637?v=4" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/535b423b-f9c6-4c9a-8052-d1484c7145fb" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/3679e77e-3678-4f16-a927-04b2c9f2309d" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/e5de118d-7587-416b-bd9b-d965db443df1" height=100/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조창욱                            |                            김서현                            |                            김민석                            |                            전기범                            |                            김소리                            |
