@@ -40,6 +40,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?logo=bootstrap&logoColor=white)
 
+-->
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-17-007396.svg?&logo=java&color=red)
@@ -49,7 +50,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?&logo=json-web-token&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&logo=gradle)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?&logo=junit5&logoColor=white&color=green)-->
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?&logo=junit5&logoColor=white&color=green)
 
 ### DB
 <!--![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&logo=ubuntu&logoColor=white)-->
