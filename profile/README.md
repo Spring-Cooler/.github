@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1591ddfb-3939-47d7-ad61-116a7c8c297f)# 🍚🍴 애쓰지마
+# 🍚🍴 애쓰지마
 <br>
 
 ## 💮 Group 3 Team Member 
@@ -12,11 +12,6 @@
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) <br>` ESTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) <br>` E(I)STP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) <br>` INFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) <br>` INFJ `|
 
 <br>
-![image](https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c)
-
-![image](https://github.com/user-attachments/assets/8bdf1acd-d774-426f-8257-d28bd1e37056)
-![image](https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce)
-![image](https://github.com/user-attachments/assets/018f5c1c-7b3e-4767-a8b7-415c871e1e63)
 
 
 
