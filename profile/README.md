@@ -1,4 +1,4 @@
-# 🍚🍴 애쓰지마
+![image](https://github.com/user-attachments/assets/1591ddfb-3939-47d7-ad61-116a7c8c297f)# 🍚🍴 애쓰지마
 <br>
 
 ## 💮 Group 3 Team Member 
@@ -6,7 +6,7 @@
 <a href="https://github.com/Spring-Cooler/.github/wiki">
 <img src="https://img.shields.io/badge/SIGMA HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
  
-| <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height=100/> | <img src="https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://cdxarchivephoto.s3.ap-northeast-2.amazonaws.com/1703686603541_58d5c7fd-e64b-4170-91af-d63595a509ae_3472461044721736753_20230104013918209.jpeg" height=100 width=100/> | <img src="https://github.com/user-attachments/assets/8bdf1acd-d774-426f-8257-d28bd1e37056" height=100/> |
+| <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height=100/> | <img src="https://github.com/user-attachments/assets/018f5c1c-7b3e-4767-a8b7-415c871e1e63" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce" height=100 width=100/> | <img src="https://github.com/user-attachments/assets/8bdf1acd-d774-426f-8257-d28bd1e37056" height=100/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조창욱                            |                            김서현                            |                            김민석                            |                            전기범                            |                            김소리                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) <br>` ESTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) <br>` E(I)STP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) <br>` INFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) <br>` INFJ `|
@@ -16,6 +16,8 @@
 
 ![image](https://github.com/user-attachments/assets/8bdf1acd-d774-426f-8257-d28bd1e37056)
 ![image](https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce)
+![image](https://github.com/user-attachments/assets/018f5c1c-7b3e-4767-a8b7-415c871e1e63)
+
 
 
 ## 🎬🎞️ 프로젝트 개요 
