@@ -1,10 +1,10 @@
-# 🍚🍴 애쓰지마
+# 📚 애쓰지마(SGMA)
 <br>
 
 ## 💮 Spring-Cooler Team Member 
 
 <a href="https://github.com/Spring-Cooler/.github/wiki">
-<img src="https://img.shields.io/badge/SIGMA HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SGMA HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
  
 | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height=100/> | <img src="https://github.com/user-attachments/assets/018f5c1c-7b3e-4767-a8b7-415c871e1e63" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce" height=100 width=100/> | <img src="https://github.com/user-attachments/assets/8bdf1acd-d774-426f-8257-d28bd1e37056" height=100/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -29,7 +29,7 @@
 | Studyin | ㅇ    | ㅇ    |       | ㅇ    |
 | 맞추다     |      |      | ㅇ     |      |
 | 공작소     | ㅇ    | ㅇ    |       | ㅇ    |
-| SIGMA   | ㅇ    | ㅇ    | ㅇ     | ㅇ    |
+| SGMA   | ㅇ    | ㅇ    | ㅇ     | ㅇ    |
 
 <br>
 
@@ -69,7 +69,11 @@
 ![Jasypt](https://img.shields.io/badge/Jasypt-0045B9?logo=Jasypt&logoColor=white)-->
 
 ### Tool
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/ERD%20cloud-%230000FF.svg?style=flat&logo=erlang&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/DA%23-0B6121.svg?style=flat&logo=draw.io&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/ERD%20cloud-%230000FF.svg?style=flat&logo=erlang&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/DA%23-0B6121.svg?style=flat&logo=draw.io&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> &nbsp; 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 
 <br>
 
