@@ -1,7 +1,7 @@
 # 🍚🍴 애쓰지마
 <br>
 
-## 💮 Group 3 Team Member 
+## 💮 Spring-Cooler Team Member 
 
 <a href="https://github.com/Spring-Cooler/.github/wiki">
 <img src="https://img.shields.io/badge/SIGMA HR-00BC8E.svg?style=flat-square&logo=github&logoColor=white"/>
