@@ -77,7 +77,7 @@
 
 <br>
 
-## 🗓️ WBS
+<!--## 🗓️ WBS
 ### [WBS](https://docs.google.com/spreadsheets/d/1XVX6lAse2VZzDybUvryL8GyeM3-PO_EZMFG10hMVJSk/edit?gid=1079017783#gid=1079017783)
 <img  alt="image" src="">
 
@@ -85,7 +85,7 @@
 <br>
 
 ## 🔀 플로우차트 
-![image]()
+##![image]()
 
 
 ## 🗃️ 요구사항
@@ -132,7 +132,7 @@
 
 
 ---
-
+-->
 
 
 ## 📜 동료평가
@@ -146,7 +146,3 @@
 |  김소리  |  |
 
 
-📝memo
-spring batch 
-chunk - 큰단위
-tasklet - 작은단위
